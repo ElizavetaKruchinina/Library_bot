@@ -1,0 +1,30 @@
+# Бот
+conf.json
+*.db
+*.db-shm
+*.db-wal
+
+# Python
+pycache/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Логи
+*.log
+
+# Файлы экспорта
+*.txt
+!requirements.txt
